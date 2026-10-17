@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart
+faster-whisper
+pytest
+httpx
+pydantic-settings
+av==13.0.0
